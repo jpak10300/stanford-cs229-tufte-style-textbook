@@ -1,4 +1,4 @@
-# Machine Learning Book - CS229
+# Machine Learning Book
 
 <!-- [![pipeline status](https://gitlab.com/johnnychen94/tufte_algorithms_book/badges/master/pipeline.svg)](https://gitlab.com/johnnychen94/tufte_algorithms_book/commits/master) -->
 
